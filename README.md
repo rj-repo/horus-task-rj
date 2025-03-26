@@ -72,7 +72,9 @@ If `games` is passed as a `MultiFolder`, `count()` should return **4**.
 - JUnit for unit testing
 
 ### Design patterns
-
+- Dependency Injection
+- Composite pattern (provided code)
+- Strategy pattern (rather OOP basics - not fully strategy with Factory design )
 
 ### Implementation Details
 `FileCabinet` implements required methods from `Cabinet`:
